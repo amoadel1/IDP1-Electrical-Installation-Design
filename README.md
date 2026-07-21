@@ -9,6 +9,33 @@
 ![License](https://img.shields.io/badge/License-MIT-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+## Overview
+
+This repository presents the complete **Integrated Design Project 1 (IDP 1)** developed for the **Electrical Installation Design I (EMJ33404)** course at **Universiti Malaysia Perlis (UniMAP)**.
+
+The project involves the complete design of a low-voltage electrical installation system for the **HEPA Building** and the **GREEN Building**. The work covers lighting design, electrical load estimation, electrical distribution system design, power factor correction, cable sizing, protection coordination, and engineering economic evaluation.
+
+The project was completed through four progressive engineering stages, where the output of each stage became the input for the next. The final result is a complete electrical installation design supported by engineering calculations, AutoCAD drawings, single-line diagrams, and detailed technical documentation.
+
+---
+
+## Table of Contents
+
+- [Overall Project Methodology](#overall-project-methodology)
+- [Progress 1 – Indoor Lighting Design](#progress-1--indoor-lighting-design)
+- [Progress 2 – Load Identification & Estimation](#progress-2--load-identification--estimation)
+- [Progress 3 – Electrical Distribution System](#progress-3--electrical-distribution-system)
+- [Progress 4 – Cable Sizing and Protection Design](#progress-4--cable-sizing-and-protection-design)
+- [Final Deliverables](#final-deliverables)
+- [Engineering Standards](#engineering-standards)
+- [Software Used](#software-used)
+- [Repository Structure](#repository-structure)
+- [Team Members](#team-members)
+- [Project Summary](#project-summary)
+- [License](#license)
+
+---
+
 
 # Overall Project Methodology
 
@@ -46,31 +73,6 @@ The final part represents **Progress 4**, where suitable cable sizes are selecte
 
 The completion of these four stages resulted in a complete low-voltage electrical installation design for the HEPA Building and GREEN Building, including engineering calculations, AutoCAD drawings, single-line diagrams, cable sizing, protection coordination, and supporting technical documentation.
 
-
-## Overview
-
-This repository presents the complete **Integrated Design Project 1 (IDP 1)** developed for the **Electrical Installation Design I (EMJ33404)** course at **Universiti Malaysia Perlis (UniMAP)**.
-
-The project involves the complete design of a low-voltage electrical installation system for the **HEPA Building** and the **GREEN Building**. The work covers lighting design, electrical load estimation, electrical distribution system design, power factor correction, cable sizing, protection coordination, and engineering economic evaluation.
-
-The project was completed through four progressive engineering stages, where the output of each stage became the input for the next. The final result is a complete electrical installation design supported by engineering calculations, AutoCAD drawings, single-line diagrams, and detailed technical documentation.
-
----
-
-## Table of Contents
-
-- [Overall Project Methodology](#overall-project-methodology)
-- [Progress 1 – Indoor Lighting Design](#progress-1--indoor-lighting-design)
-- [Progress 2 – Load Identification & Estimation](#progress-2--load-identification--estimation)
-- [Progress 3 – Electrical Distribution System](#progress-3--electrical-distribution-system)
-- [Progress 4 – Cable Sizing and Protection Design](#progress-4--cable-sizing-and-protection-design)
-- [Final Deliverables](#final-deliverables)
-- [Engineering Standards](#engineering-standards)
-- [Software Used](#software-used)
-- [Repository Structure](#repository-structure)
-- [Team Members](#team-members)
-- [Project Summary](#project-summary)
-- [License](#license)
 
 ---
 
@@ -438,13 +440,9 @@ This project was completed by:
 
 # Project Summary
 
-This repository documents the complete design process of a low-voltage electrical installation system for the HEPA Building and the GREEN Building at Universiti Malaysia Perlis (UniMAP).
+This repository showcases the complete engineering workflow followed in designing a low-voltage electrical installation system for two academic buildings. It demonstrates the practical application of electrical installation standards, engineering calculations, technical documentation, and AutoCAD design throughout a complete engineering project.
 
-The project demonstrates a systematic engineering workflow, beginning with indoor lighting design and progressing through electrical load identification, distribution system design, power factor correction, cable sizing, voltage drop analysis, and protection coordination.
-
-Each project stage is supported by detailed engineering calculations, AutoCAD drawings, Excel calculation sheets, and technical documentation prepared in accordance with Malaysian electrical engineering standards.
-
-This repository serves as a comprehensive reference for students, researchers, and engineers interested in electrical installation design, building power distribution systems, and engineering documentation.
+---
 
 # License
 
