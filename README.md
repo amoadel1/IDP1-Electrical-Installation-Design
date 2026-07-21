@@ -10,11 +10,41 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
-## Overall Project Methodology
+# Overall Project Methodology
 
-<p align="center">
-  <img src="Final/Overall-Project-Methodology.png" alt="Overall Project Methodology" width="900">
-</p>
+The electrical installation design was completed using a structured engineering workflow divided into four consecutive stages. Each stage builds upon the verified results of the previous stage, ensuring an organized, systematic, and standards-compliant design process. The complete methodology is presented in the following four flowcharts.
+
+## Part 1 – Project Initiation and Indoor Lighting Design
+
+The first part introduces the overall project workflow and covers **Progress 1**, which focuses on indoor lighting design. It begins with reviewing the project drawings, identifying the applicable engineering standards, and dividing the project into four stages. The lighting design is then carried out using the Lumen Method, including room area calculations, illuminance selection, Room Index (K), Coefficient of Utilization (CoU), Maintenance Factor (MF), luminaire selection, layout verification, and preparation of the lighting calculations and AutoCAD drawings.
+
+![Overall Project Methodology - Part 1](Final/Overall-Project-Methodology-Part-1.png)
+
+---
+
+## Part 2 – Electrical Load Identification and Load Scheduling
+
+The second part represents **Progress 2**, where all electrical loads within the HEPA Building and GREEN Building are identified and calculated. The process includes air-conditioning sizing, connected load calculations, Total Connected Load (TCL), Maximum Demand (MD), design current calculation, MCB selection, preliminary cable sizing, and preparation of the electrical load schedule. Finally, the electrical circuits are balanced across the three phases before completing the load calculations.
+
+![Overall Project Methodology - Part 2](Final/Overall-Project-Methodology-Part-2.png)
+
+---
+
+## Part 3 – Electrical Distribution System and Power Factor Correction
+
+The third part corresponds to **Progress 3**, which develops the complete electrical distribution system. Distribution Boards (DB), Sub Switchboards (SSB), and the Main Switchboard (MSB) are designed using the calculated electrical loads. Protection coordination is verified by selecting suitable MCCBs, MCBs, RCCBs, and ELRs. The Power Factor Correction (PFC) system is then designed by calculating the required capacitor bank capacity, selecting capacitor stages, contactors, and protective devices before preparing the final electrical drawings.
+
+![Overall Project Methodology - Part 3](Final/Overall-Project-Methodology-Part-3.png)
+
+---
+
+## Part 4 – Cable Sizing, Voltage Drop Analysis, and Final Documentation
+
+The final part represents **Progress 4**, where suitable cable sizes are selected based on the design current and current-carrying capacity. Voltage drop calculations are performed for every feeder and final circuit to ensure compliance with BS 7671, MS IEC 60364, JKR, and TNB requirements. After verifying all engineering requirements, the calculation sheets are finalized and compiled into the complete project report.
+
+![Overall Project Methodology - Part 4](Final/Overall-Project-Methodology-Part-4.png)
+
+The completion of these four stages resulted in a complete low-voltage electrical installation design for the HEPA Building and GREEN Building, including engineering calculations, AutoCAD drawings, single-line diagrams, cable sizing, protection coordination, and supporting technical documentation.
 
 
 ## Overview
