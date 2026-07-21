@@ -296,49 +296,90 @@ The following software was used throughout the project:
 # Repository Structure
 
 ```text
-Electrical-Installation-Design-IDP1/
+IDP1-Electrical-Installation-Design/
+│
+├── README.md
+├── LICENSE
 │
 ├── Progress-1-Lighting-Design/
 │   ├── README.md
 │   ├── Lighting-Design-Flowchart.png
-│   ├── Report
-│   ├── Excel Files
-│   └── AutoCAD Drawings
+│   ├── IDP1-Progress-1-Lighting-Design-Report.pdf
+│   └── IDP1-Progress-1-Quantity-Lamp-Calculation.xlsx
 │
 ├── Progress-2-Load-Identification/
 │   ├── README.md
 │   ├── Air-Conditioning-Sizing-Flowchart.png
 │   ├── Load-Identification-Flowchart.png
 │   ├── Load-Balancing-Flowchart.png
-│   ├── Report
-│   ├── Excel Files
-│   └── AutoCAD Drawings
+│   ├── IDP1-Progress-2-GREEN-Building-Load-Calculation.xlsx
+│   ├── IDP1-Progress-2-HEPA-Building-Load-Calculation.xlsx
+│   ├── GREEN-Ground-Floor-Roof-Layout.dwg
+│   ├── GREEN-Level-1-AC-Layout.dwg
+│   ├── GREEN-Level-1-Lighting-Fan-Layout.dwg
+│   ├── GREEN-Level-1-Power-Layout.dwg
+│   ├── GREEN-Level-2-AC-Layout.dwg
+│   ├── GREEN-Level-2-Lighting-Fan-Layout.dwg
+│   ├── GREEN-Level-2-Power-Layout.dwg
+│   ├── HEPA-Level-1-AC-Layout.dwg
+│   ├── HEPA-Level-1-Lighting-Fan-Layout.dwg
+│   ├── HEPA-Level-1-Power-Layout.dwg
+│   ├── HEPA-Level-2-AC-Layout.dwg
+│   ├── HEPA-Level-2-Lighting-Fan-Layout.dwg
+│   ├── HEPA-Level-2-Power-Layout.dwg
+│   ├── HEPA-Roof-Lighting-Fan-Layout.dwg
+│   └── HEPA-Roof-Power-Layout.dwg
 │
 ├── Progress-3-Distribution-System/
 │   ├── README.md
 │   ├── Distribution-System-Methodology.png
 │   ├── DB-SSB-MSB-Design-Flowchart.png
 │   ├── Power-Factor-Correction-Flowchart.png
-│   ├── Report
-│   ├── Excel Files
-│   └── AutoCAD Drawings
+│   ├── IDP1-Progress-3-Distribution-System-Report.pdf
+│   ├── IDP1-Progress-3-GREEN-Building-Distribution-Calculation.xlsx
+│   ├── IDP1-Progress-3-HEPA-Building-Level-1.xlsx
+│   ├── IDP1-Progress-3-HEPA-Building-Level-2.xlsx
+│   ├── IDP1-Progress-3-HEPA-Building-Level-2-and-PFC-Calculation.xlsx
+│   ├── IDP1-Progress-3-HEPA-Building-and-MSB-Calculation.xlsx
+│   ├── IDP1-Progress-3-Load-Summary.xlsx
+│   ├── GREEN-First-Floor-Distribution-System.dwg
+│   ├── GREEN-Ground-Floor-and-Roof-Distribution-System.dwg
+│   ├── GREEN-Second-Floor-Distribution-System.dwg
+│   ├── HEPA-Level-1-Distribution-System.dwg
+│   ├── HEPA-Level-2-and-MSB-and-PFC-System.dwg
+│   └── HEPA-Level-2-and-Roof-Distribution-System.dwg
 │
 ├── Progress-4-Cable-Sizing-and-Protection/
 │   ├── README.md
 │   ├── Cable-Sizing-and-Voltage-Drop-Flowchart.png
-│   ├── Report
-│   ├── Excel Files
-│   └── AutoCAD Drawings
+│   ├── IDP1-Progress-4-Cable-Sizing-and-Protection-Report.pdf
+│   ├── IDP1-Progress-4-GREEN-Building-First-Floor-Calculation.xlsx
+│   ├── IDP1-Progress-4-GREEN-Building-Ground-Floor-Calculation.xlsx
+│   ├── IDP1-Progress-4-GREEN-Building-Second-Floor-Calculation.xlsx
+│   ├── IDP1-Progress-4-HEPA-Building-Level-1-Calculation.xlsx
+│   ├── IDP1-Progress-4-HEPA-Building-Level-2-and-Roof-Calculation.xlsx
+│   ├── GREEN-First-Floor-Cable-Routing.dwg
+│   ├── GREEN-Ground-Floor-Cable-Routing.dwg
+│   ├── GREEN-Second-Floor-Cable-Routing.dwg
+│   ├── HEPA-Level-1-Cable-Routing.dwg
+│   └── HEPA-Level-2-and-Roof-Cable-Routing.dwg
 │
-├── Final/
-│   ├── README.md
-│   ├── Overall-Project-Methodology.png
-│   ├── Final Report
-│   ├── AutoCAD Drawings
-│   └── Excel Files
-│
-├── LICENSE
-└── README.md
+└── Final/
+    ├── README.md
+    ├── Overall-Project-Methodology.png
+    ├── IDP1-Final-Report.pdf
+    ├── IDP1-Project-Calculation.xlsx
+    ├── IDP1-Lighting-Calculation.xlsx
+    ├── IDP1-GREEN-Building-Load-Calculation.xlsx
+    ├── IDP1-GREEN-Building-Distribution-System-Calculation.xlsx
+    ├── IDP1-HEPA-Building-Load-Calculation.xlsx
+    ├── IDP1-HEPA-Building-Level-1-and-MSB-Calculation.xlsx
+    ├── IDP1-HEPA-Building-Level-2-and-PFC-Calculation.xlsx
+    ├── GREEN-Building-Combined-Electrical-Layout.dwg
+    ├── GREEN-Building-DB-and-SSB-Single-Line-Diagram.dwg
+    ├── HEPA-Building-Combined-Electrical-Layout.dwg
+    ├── HEPA-Building-DB-and-SSB-Single-Line-Diagram.dwg
+    └── MSB-and-PFC-Board-Single-Line-Diagram.dwg
 ```
 
 ---
