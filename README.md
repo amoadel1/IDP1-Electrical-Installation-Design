@@ -1,5 +1,15 @@
 # Electrical Installation Design for HEPA & GREEN Buildings
 
+![Course](https://img.shields.io/badge/Course-EMJ33404-0066CC)
+![University](https://img.shields.io/badge/University-UniMAP-8B0000)
+![Project](https://img.shields.io/badge/Project-Integrated%20Design%20Project%201-2E8B57)
+![Buildings](https://img.shields.io/badge/Buildings-HEPA%20%26%20GREEN-FF8C00)
+![Standards](https://img.shields.io/badge/Standards-BS7671%20%7C%20MS%20IEC%2060364-purple)
+![Software](https://img.shields.io/badge/Software-AutoCAD%20%7C%20Excel%20%7C%20Word-blue)
+![License](https://img.shields.io/badge/License-MIT-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## Overall Project Methodology
 
 <p align="center">
